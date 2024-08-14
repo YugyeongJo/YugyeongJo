@@ -5,8 +5,8 @@
     <img src="./yugyeongjo.png" alt="Profile Image" />
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YugyeongJo&layout=compact)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YugyeongJo&show_icons=true&theme=radical)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YugyeongJo&layout=compact)
 
 </div>
 
