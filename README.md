@@ -1,5 +1,5 @@
 <p align='center'>
-    <img src="./yugyeongjo.png" alt="Profile Image" style="width: 100%;" />
+    <img src="./yugyeongjo.png" alt="Profile Image" />
 </p>
 
 ## Hi there 👋
