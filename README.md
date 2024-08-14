@@ -1,3 +1,4 @@
+<div align=center>
 <p align='center'>
     <img src="./yugyeongjo.png" alt="Profile Image" />
 </p>
@@ -5,8 +6,9 @@
 ## Hi there 👋
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YugyeongJo)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YugyeongJo&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
 <!--
 **YugyeongJo/YugyeongJo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
