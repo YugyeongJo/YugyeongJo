@@ -4,6 +4,7 @@
 <p align='center'>
     <img src="./yugyeongjo.png" alt="Profile Image" />
 </p>
+</div>
 
 ## SKILLS
 
@@ -40,7 +41,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YugyeongJo&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YugyeongJo&layout=compact)
 
-</div>
+
 
 <!--
 **YugyeongJo/YugyeongJo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
