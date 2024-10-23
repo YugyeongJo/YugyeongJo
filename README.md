@@ -1,4 +1,4 @@
-## Hi! I'm Yugyeong 👋 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYugyeongJo&count_bg=%23FFC077&title_bg=%23737874&icon=github.svg&icon_color=%23FFB3B1&title=GIthub&edge_flat=false)](https://hits.seeyoufarm.com)
+## **Hi! I'm Yugyeong** 👋 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYugyeongJo&count_bg=%23FFC077&title_bg=%23737874&icon=github.svg&icon_color=%23FFB3B1&title=GIthub&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <div align=center>
 <p align='center'>
@@ -7,9 +7,9 @@
 </div>
 
 ## Introduce
-- I’m an aspiring Data Analyst and AI Engineer who believes in the power of data to drive persuasive decision-making. 
-- My goal is to use data analysis to uncover valuable insights that help guide my choices. 
-- I enjoy learning new tools and techniques in AI and data analysis to solve real-world problems.
+📊 I’m an aspiring **Data Analyst** and **AI Engineer** who believes in the power of data to drive persuasive decision-making. 
+💡 My goal is to use data analysis to uncover valuable insights that help guide my choices. 
+🌱 I enjoy learning new tools and techniques in AI and data analysis to solve real-world problems.
 
 ## SKILLS
 
