@@ -43,6 +43,14 @@
 ### DevOps
 <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
 
+## Projects 🚀
+- **[Project Name]**: Brief description of the project and its goals. [GitHub Link]
+- **[Another Project Name]**: Brief description of the project and its goals. [GitHub Link]
+
+## Education 🎓
+- **K-Digital Training**: Big Data Analysis Course
+- **[Your University Name]**: Bachelor’s Degree in [Your Major]
+
 ## GitHub Stats 📈
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YugyeongJo&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YugyeongJo&layout=compact)
