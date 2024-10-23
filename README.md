@@ -44,12 +44,44 @@
 <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
 
 ## Projects 🚀
-- **RareField**: Providing a website for rare disease patients to offer customized information. [GitHub Link](https://github.com/kdj0712/rare_field_fastapis)
+- **[팀프로젝트] NutriBalance OCR** (2024.09 - 진행중):  
+  OCR을 활용한 식품 영양성분표 리더기 개발  
+  **주요 기술**: Tesseract, OpenCV, PyTorch
+
+- **RareField** (2023.12 - 2024.05):  
+  희귀질환 환자를 위한 맞춤형 정보 제공 웹사이트 제작  
+  [GitHub Link](https://github.com/kdj0712/rare_field_fastapis)  
+  **주요 기술**: FastAPI, Python, MongoDB
+
+- **Contest Cheonan** (2024.07 - 2024.08):  
+  천안시 정책 제안 대회에서 'All in One 아이돌봄 패키지' 제안
+
+- **Movie Dataset Analysis Project** (2023.07 - 2024.08):  
+  Kaggle의 'The Movies Dataset'을 활용한 영화 데이터 분석  
+  **주요 기술**: Pandas, Matplotlib, Seaborn, Plotly
+
+- **Stock Diary** (2024.05 - 2024.06):  
+  개인 주식 기록 및 추적을 위한 애플리케이션 개발  
+  **주요 기술**: Java, MySQL
 
 ## Education 🎓
-- **K-Digital Training**: Big Data Service Engineer Course Using Java and Python  
-  - **Duration**: November 2023 ~ May 2024 (6 months)  
-  - **Course Content**: Web Publishing, Web Development, Data Analysis, Machine Learning
+- **SeSAC 데이터 AI 개발 과정** (2024.07 - 현재):  
+  AI와 데이터 분석을 중심으로 한 고급 툴 및 방법론 학습
+
+- **자바(JAVA/Python)을 활용한 빅데이터 서비스 엔지니어 양성과정** (2023.11 - 2024.05):  
+  웹 퍼블리싱, 웹 개발, 데이터 분석 등을 다룬 과정
+
+- **디지털역량 제고를 위한 웹구조 언어 & 웹스타일링 언어 기초** (2023.10 - 2023.11):  
+  웹 개발의 기초 언어와 구조에 대한 교육
+
+- **[편집디자인] 포토샵 출판편집 실무활용** (2023.07 - 2023.08):  
+  포토샵을 활용한 출판편집 실무 교육
+
+- **GIU X AMORE 쇼호스트 양성과정** (2022.12):  
+  GIU와 AMORE 협력 하에 진행된 쇼호스트 양성과정
+
+- **인문계열 취창업을 위한 웹프로그래밍/웹디자인 기초** (2017.12 - 2019.01):  
+  인문계열 취업 및 창업을 위한 웹프로그래밍 및 디자인 기초 교육
 
 ## Coding Test 🎯
 - **K-Digital Training**: Big Data Analysis Course
