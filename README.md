@@ -7,8 +7,10 @@
 </div>
 
 ## Introduce
-📊 I’m an aspiring **Data Analyst** and **AI Engineer** who believes in the power of data to drive persuasive decision-making. 
+📊 I’m an aspiring **Data Analyst** and **AI Engineer** who believes in the power of data to drive persuasive decision-making.
+
 💡 My goal is to use data analysis to uncover valuable insights that help guide my choices. 
+
 🌱 I enjoy learning new tools and techniques in AI and data analysis to solve real-world problems.
 
 ## SKILLS
