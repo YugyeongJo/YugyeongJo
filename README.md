@@ -47,7 +47,9 @@
 - **RareField**: Providing a website for rare disease patients to offer customized information. [GitHub Link](https://github.com/kdj0712/rare_field_fastapis)
 
 ## Education 🎓
-- **K-Digital Training**: Big Data Analysis Course
+- **K-Digital Training**: Big Data Service Engineer Course Using Java and Python  
+  - **Duration**: November 2023 ~ May 2024 (6 months)  
+  - **Course Content**: Web Publishing, Web Development, Data Analysis, Machine Learning
 
 ## Coding Test 🎯
 - **K-Digital Training**: Big Data Analysis Course
