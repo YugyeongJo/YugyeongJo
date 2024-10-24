@@ -84,7 +84,18 @@
   인문계열 취업 및 창업을 위한 웹프로그래밍 및 디자인 기초 교육
 
 ## Coding Test 🎯
-- **K-Digital Training**: Big Data Analysis Course
+- **Python** 
+
+    |사이트명|디렉토리 경로|비고|
+    |--|--|--|
+    |백준|[백준](https://github.com/YugyeongJo/study_pythons/tree/main/docs/codingtests/function)||
+    |프로그래머스|[프로그래머스](https://github.com/YugyeongJo/study_pythons/tree/main/docs/codingtests/programmers)||
+    ||||
+  
+- **SQL** : 
+    |사이트명|디렉토리 경로|비고|
+    |--|--|--|
+    |프로그래머스|[프로그래머스]|||
 
 ## GitHub Stats 📈
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YugyeongJo&show_icons=true&theme=radical)
