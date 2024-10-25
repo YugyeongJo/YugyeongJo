@@ -95,7 +95,9 @@
 - **SQL** : 
     |사이트명|디렉토리 경로|비고|
     |--|--|--|
-    |프로그래머스|[프로그래머스]|||
+    |Programmers|[프로그래머스](https://github.com/YugyeongJo/study_databases/tree/main/docs/SQLs/codingtest)|All Clear|
+    |HackerRank|[해커랭크](https://github.com/YugyeongJo/study_databases/tree/main/docs/SQLs/codingtest)||
+    |SolveSQL|[SolveSQL](https://github.com/YugyeongJo/study_databases/tree/main/docs/SQLs/codingtest)||
 
 ## GitHub Stats 📈
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YugyeongJo&show_icons=true&theme=radical)
