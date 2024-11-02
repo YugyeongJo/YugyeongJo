@@ -94,7 +94,8 @@
     |SW Expert Academy|[SW Expert Academy]()||
     
   
-- **SQL** : 
+- **SQL**
+  
     |사이트명|디렉토리 경로|비고|
     |--|--|--|
     |Programmers|[프로그래머스](https://github.com/YugyeongJo/study_databases/tree/main/docs/SQLs/codingtest)|All Clear|
