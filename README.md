@@ -45,6 +45,8 @@
 <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
 
 ## Projects 🚀
+- **[팀프로젝트] 피부**
+
 - **[팀프로젝트] NutriBalance OCR** (2024.09 - 진행중):  
   OCR을 활용한 식품 영양성분표 리더기 개발  
   **주요 기술**: Tesseract, OpenCV, PyTorch
