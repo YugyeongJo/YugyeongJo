@@ -44,30 +44,31 @@
 <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
 
 ## Projects 🚀
-- **[팀프로젝트] 피부**
+- **[팀프로젝트] SeSAClinic**
+  AI 기반 피부 분석 및 개인 맞춤형 케어 상담 챗봇 서비스 프로젝트
+  **주요 기술**: PyTorch, OpenCV, LLM, RAG
 
-- **[팀프로젝트] NutriBalance OCR** (2024.09 - 진행중):  
+- **[팀프로젝트] NutriBalance OCR** (2024.09 - 2024.11):  
   OCR을 활용한 식품 영양성분표 리더기 개발  
   **주요 기술**: Tesseract, OpenCV, PyTorch
 
-- **RareField** (2023.12 - 2024.05):  
+- **[팀프로젝트] RareField** (2023.12 - 2024.05):  
   희귀질환 환자를 위한 맞춤형 정보 제공 웹사이트 제작  
   [GitHub Link](https://github.com/kdj0712/rare_field_fastapis)  
   **주요 기술**: FastAPI, Python, MongoDB
 
-- **Contest Cheonan** (2024.07 - 2024.08):  
+- **[공모전] Contest Cheonan** (2024.07 - 2024.08):  
   천안시 정책 제안 대회에서 'All in One 아이돌봄 패키지' 제안
 
-- **Movie Dataset Analysis Project** (2023.07 - 2024.08):  
+- **[팀프로젝트] Movie Dataset Analysis Project** (2023.07 - 2024.08):  
   Kaggle의 'The Movies Dataset'을 활용한 영화 데이터 분석  
   **주요 기술**: Pandas, Matplotlib, Seaborn, Plotly
 
-- **Stock Diary** (2024.05 - 2024.06):  
-  개인 주식 기록 및 추적을 위한 애플리케이션 개발  
-  **주요 기술**: Java, MySQL
-
 ## Education 🎓
-- **SeSAC 데이터 AI 개발 과정** (2024.07 - 현재):  
+- **Codyssey** (2024.12 - 진행중):
+  
+
+- **SeSAC 데이터 AI 개발 과정** (2024.07 - 2024.11):  
   AI와 데이터 분석을 중심으로 한 고급 툴 및 방법론 학습
 
 - **자바(JAVA/Python)을 활용한 빅데이터 서비스 엔지니어 양성과정** (2023.11 - 2024.05):  
