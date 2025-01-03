@@ -47,7 +47,7 @@
 - **[팀프로젝트] SeSAClinic** (2024.11):  
   AI 기반 피부 분석 및 개인 맞춤형 케어 상담 챗봇 서비스 프로젝트  
   **주요 기술**: PyTorch, OpenCV, LLM, RAG  
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) [Web GitHub Link](https://github.com/YugyeongJo/MLOpsProject)  
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbqj9Ii13d6hx5a9kyLnC5A8A96LDSaSZv_w&s"> [Web GitHub Link](https://github.com/YugyeongJo/MLOpsProject)  
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) [Modeling GitHub Link](https://github.com/YugyeongJo/SeSAClinc) 
 
 - **[팀프로젝트] NutriBalance OCR** (2024.09 - 2024.11):  
