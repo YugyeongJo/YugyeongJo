@@ -65,8 +65,8 @@
   **주요 기술**: Pandas, Matplotlib, Seaborn, Plotly
 
 ## Education 🎓
-- **SeSAC x 42Seoul Codyssey 포스트 새싹과정** (2024.12 - 진행중):
-  (이커머스)추천시스템 학습
+- **SeSAC x 42Seoul Codyssey 포스트 새싹과정** (2024.12 - 진행중):  
+  A(이커머스)추천시스템 학습
 
 - **SeSAC 데이터 AI 개발 과정** (2024.07 - 2024.11):  
   AI와 데이터 분석을 중심으로 한 고급 툴 및 방법론 학습
