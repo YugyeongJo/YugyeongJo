@@ -47,6 +47,8 @@
 - **[팀프로젝트] SeSAClinic** (2024.11):  
   AI 기반 피부 분석 및 개인 맞춤형 케어 상담 챗봇 서비스 프로젝트  
   **주요 기술**: PyTorch, OpenCV, LLM, RAG
+  [Web GitHub Link](https://github.com/YugyeongJo/MLOpsProject)
+  [Modeling GitHub Link](https://github.com/YugyeongJo/SeSAClinc) 
 
 - **[팀프로젝트] NutriBalance OCR** (2024.09 - 2024.11):  
   OCR을 활용한 식품 영양성분표 리더기 개발  
@@ -54,8 +56,8 @@
 
 - **[팀프로젝트] RareField** (2023.12 - 2024.05):  
   희귀질환 환자를 위한 맞춤형 정보 제공 웹사이트 제작  
-  [GitHub Link](https://github.com/kdj0712/rare_field_fastapis)  
   **주요 기술**: FastAPI, Python, MongoDB
+  [GitHub Link](https://github.com/kdj0712/rare_field_fastapis) 
 
 - **[공모전] Contest Cheonan** (2024.07 - 2024.08):  
   천안시 정책 제안 대회에서 'All in One 아이돌봄 패키지' 제안
