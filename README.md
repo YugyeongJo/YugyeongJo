@@ -44,8 +44,8 @@
 <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
 
 ## Projects 🚀
-- **[팀프로젝트] SeSAClinic** (2024.11 - 2024.11):  
-  AI 기반 피부 분석 및 개인 맞춤형 케어 상담 챗봇 서비스 프로젝트
+- **[팀프로젝트] SeSAClinic** (2024.11):  
+  AI 기반 피부 분석 및 개인 맞춤형 케어 상담 챗봇 서비스 프로젝트  
   **주요 기술**: PyTorch, OpenCV, LLM, RAG
 
 - **[팀프로젝트] NutriBalance OCR** (2024.09 - 2024.11):  
