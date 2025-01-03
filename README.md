@@ -46,7 +46,7 @@
 ## Projects 🚀
 - **[팀프로젝트] SeSAClinic** (2024.11):  
   AI 기반 피부 분석 및 개인 맞춤형 케어 상담 챗봇 서비스 프로젝트  
-  **주요 기술**: PyTorch, OpenCV, LLM, RAG
+  **주요 기술**: PyTorch, OpenCV, LLM, RAG  
   [Web GitHub Link](https://github.com/YugyeongJo/MLOpsProject)
   [Modeling GitHub Link](https://github.com/YugyeongJo/SeSAClinc) 
 
