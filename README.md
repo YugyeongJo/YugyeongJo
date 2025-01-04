@@ -52,12 +52,12 @@
 
 - **[팀프로젝트] NutriBalance OCR** (2024.09 - 2024.11):  
   OCR을 활용한 식품 영양성분표 리더기 개발  
-  **주요 기술**: Tesseract, OpenCV, PyTorch
+  **주요 기술**: PyTorch, TrOCR, CRAFT, OpenCV  
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbqj9Ii13d6hx5a9kyLnC5A8A96LDSaSZv_w&s" alt="Sample Image" width="30"> [GitHub Link](https://github.com/YugyeongJo/OCR_Project)
   
 - **[팀프로젝트] RareField** (2023.12 - 2024.05):  
   희귀질환 환자를 위한 맞춤형 정보 제공 웹사이트 제작  
-  **주요 기술**: FastAPI, Python, MongoDB  
+  **주요 기술**: FastAPI, Python, MongoDB, Pandas, Selenium
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbqj9Ii13d6hx5a9kyLnC5A8A96LDSaSZv_w&s" alt="Sample Image" width="30"> [GitHub Link](https://github.com/kdj0712/rare_field_fastapis) 
 
 - **[공모전] Contest Cheonan** (2024.07 - 2024.08):  
