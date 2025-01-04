@@ -61,10 +61,13 @@
 
 - **[공모전] Contest Cheonan** (2024.07 - 2024.08):  
   천안시 정책 제안 대회에서 'All in One 아이돌봄 패키지' 제안
+  **주요 기술**: Pandas, Matplotlib, Seaborn, Tableau, Selenium
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbqj9Ii13d6hx5a9kyLnC5A8A96LDSaSZv_w&s" alt="Sample Image" width="30"> [GitHub Link](https://github.com/nohjuhyeon/contest_cheonan) 
 
 - **[팀프로젝트] Movie Dataset Analysis Project** (2023.07 - 2024.08):  
   Kaggle의 'The Movies Dataset'을 활용한 영화 데이터 분석  
-  **주요 기술**: Pandas, Matplotlib, Seaborn, Plotly
+  **주요 기술**: Pandas, Matplotlib, Seaborn, Plotly  
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbqj9Ii13d6hx5a9kyLnC5A8A96LDSaSZv_w&s" alt="Sample Image" width="30"> [GitHub Link](https://github.com/YugyeongJo/Movie-Dataset_Analysis_Project) 
 
 ## Education 🎓
 - **SeSAC x 42Seoul Codyssey 포스트 새싹과정** (2024.12 - 진행중):  
