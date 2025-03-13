@@ -72,8 +72,6 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbqj9Ii13d6hx5a9kyLnC5A8A96LDSaSZv_w&s" alt="Sample Image" width="30"> [GitHub Link](https://github.com/YugyeongJo/Movie-Dataset_Analysis_Project) 
 
 ## Education 🎓
-- **SeSAC x 42Seoul Codyssey 포스트 새싹과정** (2024.12 - 진행중):  
-  (이커머스)추천시스템 학습
 
 - **SeSAC 데이터 AI 개발 과정** (2024.07 - 2024.11):  
   AI와 데이터 분석을 중심으로 한 고급 툴 및 방법론 학습
