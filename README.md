@@ -1,4 +1,4 @@
-## **Hi! I'm Yugyeong** 👋 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYugyeongJo&count_bg=%23FFC077&title_bg=%23737874&icon=github.svg&icon_color=%23FFB3B1&title=GIthub&edge_flat=false)](https://hits.seeyoufarm.com)
+## **Hi! I'm Yugyeong** 👋
 
 <div align=center>
 <p align='center'>
