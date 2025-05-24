@@ -78,7 +78,7 @@
 ## Education 🎓
 
 - **KOSA 실무 중심 생성형 AI 마스터 클래스** (2025.03 - 2025.05):  
-  생성형 AI 및 Langchain / Langgraph / AI Agent를 중점으로 다룬 과정
+  생성형 AI 및 Langchain / Langgraph / AI Agent / AutoGen 을 중점으로 다룬 과정
   
 - **SeSAC 데이터 AI 개발 과정** (2024.07 - 2024.11):  
   python 기초 및 알고리즘과 pytorch를 활용한 AI 딥러닝을 중점으로 다룬 과정
