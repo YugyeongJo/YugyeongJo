@@ -82,6 +82,8 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbqj9Ii13d6hx5a9kyLnC5A8A96LDSaSZv_w&s" alt="Sample Image" width="30"> [GitHub Link](https://github.com/YugyeongJo/Movie-Dataset_Analysis_Project) 
 
 ## Education 🎓
+- **Goorm ** (2025.07 - 2025.09):
+  웹 풀스택
 
 - **KOSA 실무 중심 생성형 AI 마스터 클래스** (2025.03 - 2025.05):  
   생성형 AI 및 Langchain / Langgraph / AI Agent / AutoGen 을 중점으로 다룬 과정
