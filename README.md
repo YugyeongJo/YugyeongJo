@@ -50,7 +50,7 @@
 <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
 
 ## Projects 🚀
-- **[팀프로젝트] TalkTrip** (2025.07-2025.08):
+- **[팀프로젝트] TalkTrip** (2025.07-2025.08):  
   AI검색 및 리뷰요약과 실시간 채팅 기반 여행 상품 판매 플랫폼 개발 풀스택 프로젝트  
   **주요 기술**: JAVA, Springboot, Javascript, React, TailwindCSS, python, FastAPI, MySQL, Redis, Apache Kafka, Vecel, AWS EC2, AWS RDS, Langchain, NLP  
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbqj9Ii13d6hx5a9kyLnC5A8A96LDSaSZv_w&s" alt="Sample Image" width="30"> [GitHub Link](https://github.com/goorm-ilum)
